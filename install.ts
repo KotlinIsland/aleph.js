@@ -1,4 +1,4 @@
-import { parse } from 'https://deno.land/std@0.90.0/flags/mod.ts'
+import { parse } from 'https://deno.land/std@0.91.0/flags/mod.ts'
 import upgrade from './cli/upgrade.ts'
 
 if (import.meta.main) {
